@@ -12,7 +12,7 @@
 
 <div class="project-card">
   <a href="https://jawad-ahmed-portfolio.netlify.app/" target="_blank">
-    <img src="assets/images/project-thumb.jpg" alt="My Portfolio Project" />
+    <img src="assets/images/project-thumb.jpg" alt="My Portfolio" />
     <h3 class="project-title">Live Portfolio Website</h3>
   </a>
 </div>
