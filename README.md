@@ -10,12 +10,12 @@
 
 
 
-<div class="project-card">
+<p align="center">
   <a href="https://jawad-ahmed-portfolio.netlify.app/" target="_blank">
-    <img src="assets/images/project-thumb.jpg" alt="My Portfolio" />
-    <h3 class="project-title">Live Portfolio Website</h3>
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blue?style=for-the-badge" alt="Portfolio">
   </a>
-</div>
+</p>
+
 
 
 
